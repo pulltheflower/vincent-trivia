@@ -1,5 +1,8 @@
 # vincent-trivia
 
+## About
+
+A simple API practise project contributed `gorm` and `fiber`. 
 
 ## How to run
 
