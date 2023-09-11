@@ -2,7 +2,7 @@
 
 ## About
 
-A simple API practise project contributed with `gorm` and `fiber`. 
+A simple API practice project contributed with `gorm` and `fiber`. 
 
 ## How to run
 
